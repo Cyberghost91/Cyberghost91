@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Kumudkumarprajapati0801@gmail.com**
 
-- 📄 Know about my experiences [I was a Advanced Graphics and visualization Specialist, 3D Renderer, Animator, Vfx Artist](I was a Advanced Graphics and visualization Specialist, 3D Renderer, Animator, Vfx Artist)
+- 📄 Know about my experiences I was working as Advanced Graphics and visualization Specialist, 3D Renderer, Animator, Vfx Artist
 
 - ⚡ Fun fact **I like Travelling, Exploring new places, Meeting new peoples😍**
 
