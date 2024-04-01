@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Analyst Project**
 
-- 🌱 I’m currently improving skills like **Python, SQL, Excel, Power BI,. etc.**
+- 🌱 I’m currently improving skills like **Python, SQL, Excel, IBM Cognos Analytics, Power BI,. etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyberghost91/Project-Files](https://github.com/Cyberghost91/Project-Files)
 
