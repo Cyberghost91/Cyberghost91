@@ -29,9 +29,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberghost91&" alt="cyberghost91" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cyberghost91&show_icons=true&locale=en" alt="cyberghost91" /></p>
 
-
-<h3 align="center">Language stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberghost91&show_icons=true&locale=en&layout=compact" alt="cyberghost91" /></p>
