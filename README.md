@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cyberghost91&show_icons=true&locale=en" alt="cyberghost91" /></p>
 
-<h3 align="center"></h3>
+
 <h3 align="center">Language stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberghost91&show_icons=true&locale=en&layout=compact" alt="cyberghost91" /></p>
