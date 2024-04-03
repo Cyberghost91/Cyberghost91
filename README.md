@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cyberghost91/Project-Files](https://github.com/Cyberghost91/Project-Files)
 
+- 👨‍💻 My Kaggle projects are available at [https://www.kaggle.com/work](https://www.kaggle.com/work)
+
 - 📫 How to reach me **Kumudkumarprajapati0801@gmail.com**
 
 - 📄 Know about my experiences I was working as Advanced Graphics and visualization Specialist, 3D Renderer, Animator, Vfx Artist
